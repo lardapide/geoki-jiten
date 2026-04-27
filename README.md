@@ -3,6 +3,8 @@ Dicionário bilíngue do português brasileiro para o okinawano implementado em 
 
 Projeto associado ao <a href="https://www.geoki.site">Grupo de Estudos Okinawanos</a> da Universidade de São Paulo (GEOki-USP), desenvolvido pela linguista <a href="https://lardapide.github.io/">Elisa Anju Lardapide</a>.
 
+Ainda em desenvolvimento (v1.1.2-beta).
+
 ## Índice
 
 1. [Sobre o database](https://github.com/Lisanju/geoki-jiten/tree/main?tab=readme-ov-file#sobre-o-database);
